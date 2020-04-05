@@ -1,1 +1,1 @@
-# files for my CKA online course
+#Deploy Kubernetes cluster from kubeadm 
